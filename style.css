@@ -5,10 +5,10 @@ body
 span
 {
 	font-size: 18px;
-	color: red;
+	color: palevioletred;
 }
 canvas
 {
-	background: pink;
+	background: rgb(255, 212, 218);
 	border-radius: 20px;
 }
